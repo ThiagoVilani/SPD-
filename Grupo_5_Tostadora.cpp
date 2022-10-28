@@ -2,6 +2,7 @@
 //Thiago Vilani
 //Jonathan Ehrhorn
 //Juam Pablo Juarez
+//Link Grabacion: https://drive.google.com/file/d/1tgUrIwXRKRNQmIk1GTpQidTECme3fiqL/view?usp=sharing
 
 #include <LiquidCrystal.h>
 
